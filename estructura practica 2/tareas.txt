@@ -1,0 +1,25 @@
+1. Implementar los algoritmos 
+    quicksort 
+    burbuja
+    shell
+    Insercion
+
+2. Datos de prueba
+    
+    Hacer pruebas para 
+	cantidad de registros: 1 000000 , 750 000 , 500000 , 250000,100000,50000,25000,1000
+    	Los numeros son datos aleatorios en el rango de 0 y 1000000.
+3. La toma del tiempo se antes del ordenamiento y despues de haber finalizado el ordenamiento
+          
+3. Mostrar un Cuadro Comparativo entre los metodos
+   
+   Cantidad de Registros : 1 000000 
+	Metodo      |   Tiempo de Ordenamiento
+        -----------------------------------
+	Burbuja     |   X milisegundos
+        Shell       |   X milisegundos
+        Quicksort   |   X milisegundos
+	Shell       |   X milisegundos
+
+4. Se debe Elegir la Cantidad de Registros mediante una estrucuctura de control segun sea
+5. Utilizar JOptionPane para la presentacion de la tabla y la captura de la cantidad de registros.
